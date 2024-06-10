@@ -2,11 +2,12 @@ import React from 'react'
 import logo1 from "../../assets/logo1.png"
 import logo2 from "../../assets/logo2.png"
 import logo3 from "../../assets/logo3.png"
+import section from "../../assets/section.jpg"
 
 function Hero2() {
   return (
    
-        <section className="text-gray-600 body-font bg-section ">
+        <section style={{backgroundImage:`url(${section})`}} className="text-gray-600 body-font  ">
   <div className="container px-5 py-24 mx-auto">
     <div className="text-center mb-20">
       <h1 className="sm:text-4xl text-2xl font-bold title-font text-gray-900 mb-4">WHY CHOOSE US?</h1>

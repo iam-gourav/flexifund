@@ -1,10 +1,11 @@
 import React from 'react'
 import logo  from "../../assets/logo3.jpeg"
+import footer3 from "../../assets/footer3.jpg"
 import { FaFacebook , FaLinkedin , FaInstagramSquare , FaTwitter} from "react-icons/fa";
 
 function Footer() {
   return (
-    <footer className="bg-footer3 font-sans tracking-wide bg-cover bg-center bg-no-repeat">
+    <footer style={{backgroundImage:`url(${footer3})`}} className=" font-sans tracking-wide bg-cover bg-center bg-no-repeat">
     <div className="py-14 px-6 md:px-10">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
 

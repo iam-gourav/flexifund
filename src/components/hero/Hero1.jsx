@@ -1,10 +1,11 @@
 import React from 'react'
+import herobg from "../../assets/herobg.jpg"
 import team from "../../assets/team.webp"
 
 function Hero1() {
     return (
         <div>
-            <div className="font-sans  text-[#000a2d]  bg-no-repeat bg-cover bg-herobg">
+            <div style={{backgroundImage:`url(${herobg})`}} className="font-sans  text-[#000a2d]  bg-no-repeat bg-cover ">
                 <div className="grid lg:grid-cols-2 items-center gap-y-6 lg:h-[540px] ">
                     <div className="max-lg:order-1 h-full max-lg:text-center sm:p-12 p-4 ">
                         <h2 className="lg:text-7xl text-4xl font-bold font-serif mb-4 lg:!leading-[100px]">Welcome To <span className='text-green-500'>Flexifund</span> Loan</h2>
