@@ -12,7 +12,8 @@ function FaqPage() {
                     tabindex="1"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> HTML </span>
+                        <span>1. What does the term "Personal Loan" mean?
+                        </span>
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
                     <div
@@ -30,7 +31,8 @@ function FaqPage() {
                     tabindex="2"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> CSS </span>
+                        <span> 2. What paperwork must be submitted to apply for ZipZipLoan.com?
+                        </span>
                        
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
@@ -66,7 +68,8 @@ function FaqPage() {
                     tabindex="1"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> HTML </span>
+                        <span> 3. How much time does it take to approve my loan?
+                        </span>
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
                     <div
@@ -83,7 +86,8 @@ function FaqPage() {
                     tabindex="1"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> HTML </span>
+                        <span> 4. This loan has a single bullet, right?
+                        </span>
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
                     <div
@@ -117,7 +121,8 @@ function FaqPage() {
                     tabindex="1"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> HTML </span>
+                        <span> 5. I already have a loan, may I get another one?
+                        </span>
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
                     <div
@@ -134,7 +139,8 @@ function FaqPage() {
                     tabindex="1"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> HTML </span>
+                        <span> 6. How long will it take for me to obtain another loan once I have repaid my existing one?
+                        </span>
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
                     <div
@@ -151,7 +157,8 @@ function FaqPage() {
                     tabindex="1"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> HTML </span>
+                        <span> 7. Why was my request rejected?
+                        </span>
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
                     </div>
                     <div

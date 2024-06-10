@@ -9,7 +9,7 @@ function HowItWorksPage() {
       <div className='w-[70%] h-[200px] flex flex-col justify-center   items-center gap-5 pt-40 mb-10 '>
         <h1 className=' font-bold text-blue-600 text-[2.5rem]'>Why Flexifund Stands Out</h1>
         <span className='text-[gray] text-[18px]'>Key Factors Driving Our Popularity !</span>
-        <p className='w-[100%] h-[30px] flex justify-center items-center font-serif'>We as “Flexifund” is well-known because of our outstanding features and traits, which make us a top choice for clients.</p>
+        <p className='w-[100%] h-[30px] flex justify-center items-center font-serif'>We as “Flexifund ” is well-known because of our outstanding features and traits, which make us a top choice for clients.</p>
       </div>
 
       {/* first */}
