@@ -31,7 +31,7 @@ function FaqPage() {
                     tabindex="2"
                 >
                     <div className="flex cursor-pointer items-center justify-between">
-                        <span> 2. What paperwork must be submitted to apply for ZipZipLoan.com?
+                        <span> 2. What paperwork must be submitted to apply for flexifund.com?
                         </span>
                        
                         <FaChevronDown className=" text-xl  transition-all duration-500 group-focus:-rotate-180"/>
